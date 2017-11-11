@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bmr</string>
+    <string name="gender">性別 (男:1, 女:0)</string>
+    <string name="weight">體重(公斤)</string>
+    <string name="height">身高(公分)</string>
+    <string name="age">年齡</string>
+    <string name="calculate_bmr">計算BMR</string>
+    <string name="your_bmr_is">您的BMR值為</string>
+    <string name="ok">確認</string>
+    <string name="bmr_title">BMR提示</string>
+    <string name="info">說明</string>
+</resources>
